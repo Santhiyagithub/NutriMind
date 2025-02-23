@@ -1,0 +1,32 @@
+# NutriMind Requirements
+
+# Core libraries
+numpy
+pandas
+scikit-learn
+
+# Machine learning and LLMs
+torch
+transformers
+groq
+
+# OCR and image processing
+paddlepaddle
+paddleocr
+opencv-python
+PyQt5
+
+# API and web interaction
+requests
+flask
+
+# GUI and visualization
+streamlit
+matplotlib
+
+# Environment and logging
+dotenv
+loguru
+
+# CSV handling
+csv
