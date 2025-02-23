@@ -23,7 +23,7 @@ Simple User Interface:
 Clean and intuitive GUI for seamless usage.
 
 # Installation
-# 1. Clone the Repository :
+### 1. Clone the Repository :
               git clone https://github.com/santhiyagithub/NutriMind.git
               cd NutriMind
 # 2. Create a Virtual Environment
