@@ -7,19 +7,19 @@ NutriMind is an AI-powered application that helps users make healthier food choi
 
 # Features
 
-# Food Label Scanning: 
+Food Label Scanning: 
 Upload images of food labels for text extraction.
 
-# Nutritional Analysis:
+Nutritional Analysis:
 Understands ingredient lists and breaks down nutrient content.
 
-# Personalized Recommendations: 
+Personalized Recommendations: 
 Tailored advice based on the user’s health conditions and dietary needs.
 
-# Multi-Model Support:
+Multi-Model Support:
 Switch between multiple models to optimize performance.
 
-# Simple User Interface:
+Simple User Interface:
 Clean and intuitive GUI for seamless usage.
 
 # Installation
