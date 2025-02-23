@@ -26,20 +26,20 @@ Clean and intuitive GUI for seamless usage.
 ### 1. Clone the Repository :
               git clone https://github.com/santhiyagithub/NutriMind.git
               cd NutriMind
-# 2. Create a Virtual Environment
+### 2. Create a Virtual Environment
              python -m venv venv
              source venv/bin/activate  # On Windows: venv\Scripts\activate
-# 3. Install Dependencies
+### 3. Install Dependencies
              pip install -r requirements.txt
 
 # Usage 
-# 1.Run the Application:
+### 1.Run the Application:
             python src/foodrecommendation.py
 
-# 2.Upload food label image: 
+### 2.Upload food label image: 
             choose a image through the GUI
 
-# 3. View results:
+### 3. View results:
              extracted text , analyszed nutrients and recommendations will be displayed instantly.
 
 # License
